@@ -1,0 +1,1 @@
+const String appNameLight = 'assets/images/appName.svg';
