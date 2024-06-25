@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
       apiKey: 'API Key',
       authDomain: "Your Auth Domian",
       projectId: "Your Project Id",
-      storageBucket: "jewellery-app-8ff30.appspot.com",
+      storageBucket: "Storage Bucket Id",
       messagingSenderId: "Sender Id",
       appId: "Your App Id",
       );
