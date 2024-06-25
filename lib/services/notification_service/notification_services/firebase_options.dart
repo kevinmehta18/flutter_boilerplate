@@ -50,21 +50,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-      apiKey: 'AIzaSyAwNGIOIsEyhxpGghxvhOKitll2cOAsHGM',
-      authDomain: "Channel Name-events.firebaseapp.com",
-      projectId: "jewellery-app-8ff30",
+      apiKey: 'API Key',
+      authDomain: "Your Auth Domian",
+      projectId: "Your Project Id",
       storageBucket: "jewellery-app-8ff30.appspot.com",
-      messagingSenderId: "1062416029971",
-      appId: "1:1062416029971:android:d829f4c4363c24306f62e6",
+      messagingSenderId: "Sender Id",
+      appId: "Your App Id",
       );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAxIvT5X3vsfiiV_uC4UCQ-oeVqwcxglLc',
-    projectId: "Channel Name-events",
-    storageBucket: "Channel Name-events.appspot.com",
-    messagingSenderId: "307951879859",
-    appId: "1:307951879859:ios:b4cf364172a86d5f5f12c6",
-    iosBundleId: "com.Channel Name.com",
+    apiKey: 'Your API key',
+    projectId: "Your Project Id",
+    storageBucket: "Storage Bucket Id",
+    messagingSenderId: "Sender Id",
+    appId: "Your App Id",
+    iosBundleId: "Bundel Id",
   );
 
 }
